@@ -1,5 +1,5 @@
 ### Hi there 👋
-I LOVE PENIS
+I LOVE PENIS VERY MUCH
 
 <!--
 **hikinokomora/hikinokomora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

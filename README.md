@@ -32,18 +32,18 @@
 
 ### Stats
 <div align="center">
-  <img height="155" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=hikinokomora&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" />
-  <img height="155" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hikinokomora&layout=compact&hide_border=true&theme=github_dark" />
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hikinokomora&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&cache_seconds=86400&v=1)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hikinokomora&layout=compact&hide_border=true&theme=github_dark&cache_seconds=86400&v=1)
+
 </div>
 
 <div align="center">
-  <img alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=hikinokomora&theme=github-dark&hide_border=true" />
+  <img alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=hikinokomora&theme=github-dark&hide_border=true&custom_title=hikinokomora%27s%20Contribution%20Graph" />
 </div>
 
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img alt="Profile views" src="https://visitcount.itsvg.in/api?id=hikinokomora&icon=0&color=12" />
-  </a>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=hikinokomora&style=flat-square&color=58A6FF" />
 </div>
 
 ### Timeline

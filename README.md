@@ -1,7 +1,5 @@
 # krevi
 
-Building useful things, learning fast · GMT+3 · MacBook daily driver
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira%20Code&size=16&duration=2800&pause=650&color=58A6FF&vCenter=true&width=540&lines=Building+useful+things%2C+learning+fast;Backend+%2F+tools+%2F+graphics+curiosity;GMT%2B3+%E2%80%A2+MacBook+daily+driver)](https://git.io/typing-svg)
 
 [![Website](https://img.shields.io/badge/website-krevetka.space-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF)](https://krevetka.space)

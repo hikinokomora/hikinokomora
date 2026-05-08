@@ -15,7 +15,7 @@ Building useful things, learning fast · GMT+3 · MacBook daily driver
 
 ## Setup
 - **Machine**: MacBook (GMT+3)
-- **Editor**: Cursor / VS Code
+- **Editor**: JetBrains / VS Code
 - **Shell**: zsh
 - **Tools**: Git, Docker, npm
 
